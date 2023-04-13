@@ -11,3 +11,11 @@ Awesome papers on 3D anomaly detection and detection
 - Benchmarking Unsupervised Anomaly Detection and Localization  | **[arXiv' 22]** | [`[pdf]`](https://arxiv.org/pdf/2205.14852.pdf) | 
 - Asymmetric Student-Teacher Networks for Industrial Anomaly Detection  | **[WACV' 23]** | [`[pdf]`](https://arxiv.org/pdf/2303.13194.pdf) | [`[code]`](https://github.com/eliahuhorwitz/3D-ADS)
 
+## Performance Comparison on MvTEC 3D 
+| Model | Image-level AUROC (%) | Pixel-level AUPRO (%) |
+| ------- | ----------- | ------- |
+| M3DM| 94.5   | 96.4  |
+| AST | 93.7   |       |
+| BTF | 86.5   | 95.9  |
+
+
