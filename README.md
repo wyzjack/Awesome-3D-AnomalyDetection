@@ -5,7 +5,7 @@ Anomaly detection on
  MVTEC 3D dataset | The MVTec 3D-AD Dataset for Unsupervised 3D Anomaly Detection and Localization | **[VISAPP' 22]** |
 
 ### Unsupervised 3D Anomaly Detection and Localization on MVTEC 3D Dataset
-- <span id = "01">[Multimodal Industrial Anomaly Detection via Hybrid Fusion]</span>  | **[CVPR' 23]** | [`[pdf]`](https://arxiv.org/pdf/2303.00601.pdf) | [`[code]`](https://github.com/nomewang/M3DM)
+- <span id = "01"> [Multimodal Industrial Anomaly Detection via Hybrid Fusion] </span>  | **[CVPR' 23]** | [`[pdf]`](https://arxiv.org/pdf/2303.00601.pdf) | [`[code]`](https://github.com/nomewang/M3DM)
 - Complementary Pseudo Multimodal Feature for Point Cloud Anomaly Detection   | **[Pattern Recognition' 23]** | [`[pdf]`](https://arxiv.org/pdf/2303.13194.pdf) | [`[code]`](https://github.com/caoyunkang/CPMF)
 - Back to the Feature: Classical 3D Features are (Almost) All You Need for 3D Anomaly Detection   | **[arXiv' 22]** | [`[pdf]`](https://arxiv.org/pdf/2203.05550.pdf) | [`[code]`](https://github.com/eliahuhorwitz/3D-ADS)
 - Collaborative Discrepancy Optimization for Reliable Image Anomaly Localization   | **[IEEE Transactions on Industrial Informatics]** | [`[pdf]`](https://arxiv.org/pdf/2302.08769.pdf) ｜ [`[code]`](https://github.com/caoyunkang/CDO) 
@@ -20,7 +20,7 @@ Anomaly detection on
 ## Performance Comparison on MvTEC 3D 
 | Method | Image-level AUROC (%) | Pixel-level AUPRO (%) |
 | ------- | ----------- | ------- |
-| <span id = "01">[M3DM]</span>| 94.5   | 96.4  |
+| <span id = "01"> [M3DM] </span>| 94.5   | 96.4  |
 | AST | 93.7   |       |
 | BTF | 86.5   | 95.9  |
 | PEFM|        | 94.2 |
