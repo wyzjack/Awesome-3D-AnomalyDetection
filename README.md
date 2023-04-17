@@ -1,6 +1,6 @@
 # Awesome-3D-AnomalyDetection [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-Anomaly detection on 3D point cloud data has been a rising topic recently and has wide-range applications in real-world applications, especially industrial manufacturing. This repository summarizes the state-of-the-art methods and the related papers.
+Anomaly detection on 3D point cloud data has been a rising topic recently and has wide-range applications in real-world applications, especially industrial manufacturing. This repository summarizes the state-of-the-art methods and the related papers. The literature are listed in alphabet order for each section.
 
 ## Dataset 
 
@@ -23,7 +23,7 @@ Anomaly detection on 3D point cloud data has been a rising topic recently and ha
 | 2022 | [RGB+PatchCore](#04)| 81.1  | 91.0  |
 | 2022 | [AST](#05) | 93.7   |   -   |
 | 2022 | [PEFM](#06)|    -   | 94.2 |
-| 2023 | [CDO(#07)| -   | 93.8 |
+| 2023 | [CDO](#07)| -   | 93.8 |
 | 2023 | [M3DM](#07)| 94.5   | **96.4**  |
 | 2023 | [CPMF](#08)| **95.2**   | 92.9  |
 
