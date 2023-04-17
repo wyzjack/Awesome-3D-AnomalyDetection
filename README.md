@@ -1,6 +1,6 @@
 # Awesome-3D-AnomalyDetection [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-Anomaly detection on 3D point cloud data has been a rising topic recently and has wide-range applications in real-world applications, especially industrial manufacturing. This repository summarizes the state-of-the-art methods and the related papers. The literature are listed in alphabet order for each section.
+Anomaly detection on 3D point cloud data has been a rising topic recently and has wide-range applications in real-world applications, especially in industrial scenarios. This repository summarizes the state-of-the-art methods and the related papers. The literature are listed in alphabet order for each section.
 
 ## Dataset 
 
@@ -10,7 +10,7 @@ Anomaly detection on 3D point cloud data has been a rising topic recently and ha
 
  **[MVTec 3D-AD]** | The MVTec 3D-AD Dataset for Unsupervised 3D Anomaly Detection and Localization | **VISAPP' 22** | [[pdf]](https://arxiv.org/pdf/2112.09045.pdf) [[website]](https://www.mvtec.com/company/research/datasets/mvtec-3d-ad)
 
-## Unsupervised 3D Anomaly Detection (and Localization) on MVTEC 3D Dataset
+## Unsupervised 3D Anomaly Detection (and Localization) on MVTec 3D-AD Dataset
 
 ### Performance Comparison on MvTEC 3D 
 | Time | Method | Image-level AUROC (%) | Pixel-level AUPRO (%) |
