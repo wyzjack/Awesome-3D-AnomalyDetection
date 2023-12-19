@@ -9,6 +9,8 @@ Anomaly detection on 3D point cloud data has been a rising topic recently and ha
 </div>
 
  **[MVTec 3D-AD]** | The MVTec 3D-AD Dataset for Unsupervised 3D Anomaly Detection and Localization | **VISAPP' 22** | [[pdf]](https://arxiv.org/pdf/2112.09045.pdf) [[website]](https://www.mvtec.com/company/research/datasets/mvtec-3d-ad)
+ **[Eyecandies]** | The Eyecandies Dataset for Unsupervised Multimodal Anomaly Detection and Localization | **ACCV' 22** | [[pdf]](https://arxiv.org/pdf/2210.04570.pdf) [[website]](https://eyecan-ai.github.io/eyecandies)
+ **[Real3D-AD]** | Real3D-AD: A Dataset of Point Cloud Anomaly Detection | **NeurIPS' 23** | [[pdf]](https://arxiv.org/pdf/2309.13226.pdf) [[website]](https://github.com/M-3LAB/Real3D-AD)
 
 ## Unsupervised 3D Anomaly Detection (and Localization) on MVTec 3D-AD Dataset
 
@@ -24,8 +26,9 @@ Anomaly detection on 3D point cloud data has been a rising topic recently and ha
 | 2022 | [AST](#5) | 93.7   |   -   |
 | 2022 | [PEFM](#6)|    -   | 94.2 |
 | 2023 | [CDO](#7)| -   | 93.8 |
-| 2023 | [M3DM](#7)| 94.5   | **96.4**  |
-| 2023 | [CPMF](#8)| **95.2**   | 92.9  |
+| 2023 | [M3DM](#8)| 94.5   | **96.4**  |
+| 2023 | [CPMF](#9)| **95.2**   | 92.9  |
+| 2023 | [Shape-Guided](#10)| 91.6   | 93.1  |
 
 - <span id = "1">**[3D-Only-Voxel-VM,3D+RGB-Voxel-VM]** The MVTec 3D-AD Dataset for Unsupervised 3D Anomaly Detection and Localization</span> | **VISAPP' 22** | [[pdf]](https://arxiv.org/pdf/2112.09045.pdf) [[website]](https://www.mvtec.com/company/research/datasets/mvtec-3d-ad)
 - <span id = "2">**[BTF]** Back to the Feature: Classical 3D Features are (Almost) All You Need for 3D Anomaly Detection</span>   | **arXiv' 22** | [[pdf]](https://arxiv.org/pdf/2203.05550.pdf) [[code]](https://github.com/eliahuhorwitz/3D-ADS)
@@ -36,6 +39,7 @@ Anomaly detection on 3D point cloud data has been a rising topic recently and ha
 - <span id = "7">**[CDO]** Collaborative Discrepancy Optimization for Reliable Image Anomaly Localization</span>   | **IEEE Transactions on Industrial Informatics** | [[pdf]](https://arxiv.org/pdf/2302.08769.pdf) [[code]](https://github.com/caoyunkang/CDO) 
 - <span id = "8">**[M3DM]** Multimodal Industrial Anomaly Detection via Hybrid Fusion</span>  | **CVPR' 23** | [[pdf]](https://arxiv.org/pdf/2303.00601.pdf)  [[code]](https://github.com/nomewang/M3DM)
 - <span id = "9">**[CPMF]** Complementary Pseudo Multimodal Feature for Point Cloud Anomaly Detection</span>   | **Pattern Recognition' 23 (under review)** | [[pdf]](https://arxiv.org/pdf/2303.13194.pdf) [[code]](https://github.com/caoyunkang/CPMF)
+- <span id = "10">**[Shape-Guided]** Complementary Pseudo Multimodal Feature for Point Cloud Anomaly Detection</span>   | **Pattern Recognition' 23 (under review)** | [[pdf]](https://proceedings.mlr.press/v202/chu23b/chu23b.pdf) [[code]](https://github.com/jayliu0313/Shape-Guided)
 
 ## 3D Anomaly Detection on Other Datasets
 
