@@ -10,7 +10,15 @@ Anomaly detection on 3D point cloud data has been a rising topic recently and ha
 
  **[MVTec 3D-AD]** | The MVTec 3D-AD Dataset for Unsupervised 3D Anomaly Detection and Localization | **VISAPP' 22** | [[pdf]](https://arxiv.org/pdf/2112.09045.pdf) [[website]](https://www.mvtec.com/company/research/datasets/mvtec-3d-ad)
 
+<div align="center">
+  <img src="figures/eyecandies.png" width="800px" height="650px">
+</div>
+
  **[Eyecandies]** | The Eyecandies Dataset for Unsupervised Multimodal Anomaly Detection and Localization | **ACCV' 22** | [[pdf]](https://arxiv.org/pdf/2210.04570.pdf) [[website]](https://eyecan-ai.github.io/eyecandies)
+
+<div align="center">
+  <img src="figures/real3d-ad.png" width="800px" height="650px">
+</div>
  
  **[Real3D-AD]** | Real3D-AD: A Dataset of Point Cloud Anomaly Detection | **NeurIPS' 23** | [[pdf]](https://arxiv.org/pdf/2309.13226.pdf) [[website]](https://github.com/M-3LAB/Real3D-AD)
 
