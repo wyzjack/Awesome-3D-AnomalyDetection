@@ -49,7 +49,7 @@ Anomaly detection on 3D point cloud data has been a rising topic recently and ha
 - <span id = "7">**[CDO]** Collaborative Discrepancy Optimization for Reliable Image Anomaly Localization</span>   | **IEEE Transactions on Industrial Informatics** | [[pdf]](https://arxiv.org/pdf/2302.08769.pdf) [[code]](https://github.com/caoyunkang/CDO) 
 - <span id = "8">**[M3DM]** Multimodal Industrial Anomaly Detection via Hybrid Fusion</span>  | **CVPR' 23** | [[pdf]](https://arxiv.org/pdf/2303.00601.pdf)  [[code]](https://github.com/nomewang/M3DM)
 - <span id = "9">**[CPMF]** Complementary Pseudo Multimodal Feature for Point Cloud Anomaly Detection</span>   | **Pattern Recognition' 23 (under review)** | [[pdf]](https://arxiv.org/pdf/2303.13194.pdf) [[code]](https://github.com/caoyunkang/CPMF)
-- <span id = "10">**[Shape-Guided]** Complementary Pseudo Multimodal Feature for Point Cloud Anomaly Detection</span>   | **ICML' 23 (under review)** | [[pdf]](https://proceedings.mlr.press/v202/chu23b/chu23b.pdf) [[code]](https://github.com/jayliu0313/Shape-Guided)
+- <span id = "10">**[Shape-Guided]** Complementary Pseudo Multimodal Feature for Point Cloud Anomaly Detection</span>   | **ICML' 23** | [[pdf]](https://proceedings.mlr.press/v202/chu23b/chu23b.pdf) [[code]](https://github.com/jayliu0313/Shape-Guided)
 
 ## 3D Anomaly Detection on Other Datasets
 
