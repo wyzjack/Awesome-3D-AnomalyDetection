@@ -29,16 +29,16 @@ Anomaly detection on 3D point cloud data has been a rising topic recently and ha
 | --- | ------- | ----------- | ------- |
 | 2021 | [3D-Only-Voxel-VM](#1)| 69.9   | 49.2  |
 | 2021 | [3D+RGB-Voxel-VM](#1)| 51.7   | 63.9  |
-| 2022 | [BTF](#2) | 86.5   | **96.4**  |
+| 2022 | [BTF](#2) | 86.5   | 96.4  |
 | 2022 | [3D-ST](#3)| -   | 83.3 |
 | 2022 | [RGB+PaDim](#4)| 76.4   |  93.0 |
 | 2022 | [RGB+PatchCore](#4)| 81.1  | 91.0  |
 | 2022 | [AST](#5) | 93.7   |   -   |
 | 2022 | [PEFM](#6)|    -   | 94.2 |
 | 2023 | [CDO](#7)| -   | 93.8 |
-| 2023 | [M3DM](#8)| 94.5   | **96.4**  |
+| 2023 | [M3DM](#8)| 94.5   | 96.4  |
 | 2023 | [CPMF](#9)| **95.2**   | 92.9  |
-| 2023 | [Shape-Guided](#10)| 91.6   | 93.1  |
+| 2023 | [Shape-Guided](#10)| 94.7   | **97.6**  |
 
 - <span id = "1">**[3D-Only-Voxel-VM,3D+RGB-Voxel-VM]** The MVTec 3D-AD Dataset for Unsupervised 3D Anomaly Detection and Localization</span> | **VISAPP' 22** | [[pdf]](https://arxiv.org/pdf/2112.09045.pdf) [[website]](https://www.mvtec.com/company/research/datasets/mvtec-3d-ad)
 - <span id = "2">**[BTF]** Back to the Feature: Classical 3D Features are (Almost) All You Need for 3D Anomaly Detection</span>   | **arXiv' 22** | [[pdf]](https://arxiv.org/pdf/2203.05550.pdf) [[code]](https://github.com/eliahuhorwitz/3D-ADS)
