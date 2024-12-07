@@ -22,7 +22,7 @@ Anomaly detection on 3D point cloud data has been a rising topic recently and ha
  
  **[Real3D-AD]** | Real3D-AD: A Dataset of Point Cloud Anomaly Detection | **NeurIPS' 23** | [[pdf]](https://arxiv.org/pdf/2309.13226.pdf) [[website]](https://github.com/M-3LAB/Real3D-AD)
 
-## Unsupervised 3D Anomaly Detection (and Localization) on MVTec 3D-AD Dataset
+## Unsupervised 3D Anomaly Detection (and Localization)
 
 ### Performance Comparison on MvTEC 3D 
 | Time | Method | Image-level AUROC (%) | Pixel-level AUPRO (%) |
@@ -50,6 +50,26 @@ Anomaly detection on 3D point cloud data has been a rising topic recently and ha
 - <span id = "8">**[M3DM]** Multimodal Industrial Anomaly Detection via Hybrid Fusion</span>  | **CVPR' 23** | [[pdf]](https://arxiv.org/pdf/2303.00601.pdf)  [[code]](https://github.com/nomewang/M3DM)
 - <span id = "9">**[CPMF]** Complementary Pseudo Multimodal Feature for Point Cloud Anomaly Detection</span>   | **Pattern Recognition' 23 (under review)** | [[pdf]](https://arxiv.org/pdf/2303.13194.pdf) [[code]](https://github.com/caoyunkang/CPMF)
 - <span id = "10">**[Shape-Guided]** Complementary Pseudo Multimodal Feature for Point Cloud Anomaly Detection</span>   | **ICML' 23** | [[pdf]](https://proceedings.mlr.press/v202/chu23b/chu23b.pdf) [[code]](https://github.com/jayliu0313/Shape-Guided)
+- <span id = "11">**[IMRNet]** Towards Scalable 3D Anomaly Detection and Localization: A Benchmark via 3D
+Anomaly Synthesis and A Self-Supervised Learning Network</span>   | **CVPR' 24** | [[pdf]](https://arxiv.org/pdf/2311.14897) [[code]](https://github.com/Chopper-233/Anomaly-ShapeNet)
+- <span id = "12">**[Looking3D]** Looking 3D: Anomaly Detection with 2D-3D Alignment</span>   | **CVPR' 24** | [[pdf]](https://openaccess.thecvf.com/content/CVPR2024/papers/Bhunia_Looking_3D_Anomaly_Detection_with_2D-3D_Alignment_CVPR_2024_paper.pdf) [[code]](https://github.com/VICO-UoE/Looking3D)
+- <span id = "13">**[R3D-AD]** R3D-AD: Reconstruction via Diffusion for 3D
+Anomaly Detection</span>   | **ECCV' 24** | [[pdf]](https://arxiv.org/pdf/2407.10862)
+- <span id = "14">**[DM-Multi-view-AD]** Learning Diffusion Models for Multi-View
+Anomaly Detection</span>   | **ECCV' 24** | [[pdf]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/04907.pdf) [[code]](https://github.com/jayliu0313/Diffusion_Multi-View_AD) 
+
+
+
+
+
+## Zero-shot 3D Anomaly Detection (and Localization)
+- <span id = "15">**[PointAD]** PointAD: Comprehending 3D Anomalies from Points and Pixels for Zero-shot 3D Anomaly Detection</span>   | **NeurIPS' 24** | [[pdf]](https://arxiv.org/pdf/2410.00320) [[code]](https://github.com/zqhang/PointAD)
+- <span id = "16">**[3DzAL]** Towards Zero-shot 3D Anomaly Localization</span>   | **WACV' 25** | [[pdf]](https://arxiv.org/pdf/2412.04304) [[project page]](https://wyzjack.github.io/3DzAL/)
+
+## Unified 3D Anomaly Detection (and Localization)
+- <span id = "17">**[HGAD]** Hierarchical Gaussian Mixture Normalizing Flow
+Modeling for Unified Anomaly Detection</span>   | **ECCV' 24** | [[pdf]](https://arxiv.org/pdf/2403.13349) [[code]](https://github.com/xcyao00/HGAD)
+
 
 ## 3D Anomaly Detection on Other Datasets
 
