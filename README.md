@@ -1,6 +1,6 @@
-# Awesome-3D-AnomalyDetection [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome-3D-ADL [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-Anomaly detection on 3D point cloud data has been a rising topic recently and has wide-range applications in real-world applications, especially in industrial scenarios. This repository summarizes the state-of-the-art methods and the related papers. The literature are listed in alphabet order for each section.
+Anomaly detection and localization on 3D point cloud data has been a rising topic recently and has wide-range applications in real-world applications, especially in industrial scenarios. This repository summarizes the state-of-the-art methods and the related papers. The literature are listed in alphabet order for each section.
 
 ## Dataset 
 
